@@ -1,4 +1,4 @@
-# AKT. SAVE je tu: https://drive.google.com/file/d/1apnFnW-I5oh4mmBw-XWIsj_gxLS7dljM/view?usp=sharing
+# AKT. SAVE je [TU](https://drive.google.com/file/d/1apnFnW-I5oh4mmBw-XWIsj_gxLS7dljM/view?usp=sharing).
 
 ## v repoz. je aj whitelist.json, ops.json... + run.bat (ak by niekto hostol server)
 
